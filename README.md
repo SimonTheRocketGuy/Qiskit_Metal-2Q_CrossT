@@ -1,1 +1,1 @@
-# Qiskit_Metal-2Q-CrossT-
+# Qiskit_Metal-2Q(CrossT)
