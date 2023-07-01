@@ -7,7 +7,6 @@
 
 - Jupyter Notebook
 - Qiskit Metal
-- Ansys
 
 ## Features
 
